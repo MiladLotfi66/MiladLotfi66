@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 >- 🌱 I’m currently learning react native 
 >- 👯 I’m looking to collaborate on ...
 >- 🤔 I’m looking for help with ...
->- 💬 Ask me about react , next js 
+>- 💬 Ask me about html , css ,tailwind ,javascript , react ,next-js , react-nativ ,phyton , django ,django-rest
 >- 📫 How to reach me: miladlotfi66@gmail.com
 --------------
 `html` , `css` ,`tailwind` ,`javascript` , `react` ,`next-js` , `react-nativ` ,`phyton` , `django` ,`django-rest`
