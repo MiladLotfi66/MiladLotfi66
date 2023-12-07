@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 >- 🌱 I’m currently learning react native 
 >- 👯 I’m looking to collaborate on ...
 >- 🤔 I’m looking for help with ...
->- 💬 Ask me about html , css ,tailwind ,javascript , react ,next-js , react-nativ ,phyton , django ,django-rest
+>- 💬 Ask me about html , css ,tailwind ,javascript , react ,next-js , react-native ,phyton , django ,django-rest
 >- 📫 How to reach me: miladlotfi66@gmail.com
 --------------
-`html` , `css` ,`tailwind` ,`javascript` , `react` ,`next-js` , `react-nativ` ,`phyton` , `django` ,`django-rest`
+`html` , `css` ,`tailwind` ,`javascript` , `react` ,`next-js` , `react-native` ,`phyton` , `django` ,`django-rest`
 ---------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiladLotfi66&show_icons=true&theme=radical)
 -------------------
