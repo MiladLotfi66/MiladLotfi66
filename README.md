@@ -1,14 +1,16 @@
 ### hello 👋
-`miladlotfi66`
+i am milad lotfi from iran
+i am a developer and my specialty is business network 
+
+Now I am working on a business network which I have named Nibro
 ----------------------------------
-Here are some ideas to get you started:
 
 >- 🔭 I’m currently working on nibero project
->- 🌱 I’m currently learning react native 
->- 👯 I’m looking to collaborate on ...
->- 🤔 I’m looking for help with ...
 >- 💬 Ask me about html , css ,tailwind ,javascript , react ,next-js , react-native ,phyton , django ,django-rest
->- 📫 How to reach me: miladlotfi66@gmail.com
+>- 📫 my email: miladlotfi66@gmail.com
+>- my phone :+98 9116666195
+>- 
+
 -------------
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
