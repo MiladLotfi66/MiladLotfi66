@@ -8,8 +8,7 @@ Now I am working on a business network which I have named Nibro
 >- 🔭 I’m currently working on nibero project
 >- 💬 Ask me about html , css ,tailwind ,javascript , react ,next-js , react-native ,phyton , django ,django-rest
 >- 📫 my email: miladlotfi66@gmail.com
->- my phone :+98 9116666195
->- 
+>- 📞 my phone :+98 9116666195
 
 -------------
 
